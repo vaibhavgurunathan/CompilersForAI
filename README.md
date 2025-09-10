@@ -1,6 +1,6 @@
 # CompilersForAI
 
-| Papers        | Link to Chat |
+| Papers        | Link to Chat  |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| [DSPy]([url](https://arxiv.org/pdf/2310.03714))          | Link          |
+| TVM[https://arxiv.org/abs/1802.04799](url)           | Link          |
