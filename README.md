@@ -12,3 +12,5 @@
 | [TorchBench](https://arxiv.org/abs/2304.14226)                                        | [TorchBench Chat](https://chatgpt.com/share/68d0a01c-f2b8-8003-a5ed-939c6081a71b) | 
 | [TorchTitan](https://arxiv.org/abs/2410.06511)                                        | [TorchTitan Chat](https://chatgpt.com/share/68d4048f-7d7c-8003-8ccc-0a92f98aba91) | 
 | [ECLIP](https://arxiv.org/abs/2506.12598)                                             | [ECLIP Chat](https://chatgpt.com/share/68d40832-54a4-8003-b244-4c4f0718a572) | 
+| [Triton](https://dl.acm.org/doi/10.1145/3315508.3329973)                              | [Triton Chat](https://chatgpt.com/share/68da7690-0b00-8003-a015-1e281f34f3b2) | 
+| [ECLIP](https://arxiv.org/abs/2506.12598)                                             | [ECLIP Chat](https://chatgpt.com/share/68d40832-54a4-8003-b244-4c4f0718a572) | 
