@@ -14,3 +14,5 @@
 | [ECLIP](https://arxiv.org/abs/2506.12598)                                             | [ECLIP Chat](https://chatgpt.com/share/68d40832-54a4-8003-b244-4c4f0718a572) | 
 | [Triton](https://dl.acm.org/doi/10.1145/3315508.3329973)                              | [Triton Chat](https://chatgpt.com/share/68da7690-0b00-8003-a015-1e281f34f3b2) | 
 | [Geak](https://arxiv.org/abs/2507.23194)                                              | [Geak Chat](https://chatgpt.com/share/68da7b70-4c28-8003-948e-9af32f31db01) | 
+| [OpFusion](https://arxiv.org/abs/2301.13062)                                          | [OpFusion Chat](https://chatgpt.com/share/68dd7be1-9b68-8003-a43c-08d40aa6b9ea) | 
+| [MemSafeXLA](https://arxiv.org/abs/2206.14148)                                        | [MemSafeXLA Chat](https://chatgpt.com/share/68dd7bdf-9a78-8003-bd07-1b9769f339a6) | 
