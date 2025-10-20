@@ -16,3 +16,5 @@
 | [Geak](https://arxiv.org/abs/2507.23194)                                              | [Geak Chat](https://chatgpt.com/share/68da7b70-4c28-8003-948e-9af32f31db01) | 
 | [OpFusion](https://arxiv.org/abs/2301.13062)                                          | [OpFusion Chat](https://chatgpt.com/share/68dd7be1-9b68-8003-a43c-08d40aa6b9ea) | 
 | [MemSafeXLA](https://arxiv.org/abs/2206.14148)                                        | [MemSafeXLA Chat](https://chatgpt.com/share/68dd7bdf-9a78-8003-bd07-1b9769f339a6) | 
+| [MLIR](https://arxiv.org/abs/2002.11054)                                              | [MLIR Chat](https://chatgpt.com/share/68f664aa-c640-8003-bf5f-cec6972a4d35) | 
+| [Glow](https://arxiv.org/abs/1805.00907)                                              | [Glow Chat](https://chatgpt.com/share/68f6648a-7c70-8003-9dd3-2d96bfb52a6e) | 
