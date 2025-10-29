@@ -20,4 +20,6 @@
 | [Glow](https://arxiv.org/abs/1805.00907)                                              | [Glow Chat](https://chatgpt.com/share/68f6648a-7c70-8003-9dd3-2d96bfb52a6e) | 
 | [EffPagedAttn](https://arxiv.org/abs/2309.06180)                                      | [EffPagedAttn Chat](https://chatgpt.com/c/68fd1c94-8760-8332-9395-682289276901) | 
 | [EffLLMServ](https://arxiv.org/abs/2503.18292)                                        | [EffLLMServ Chat](https://chatgpt.com/share/68ffb84a-b83c-8003-9a6f-b9cee67b01b8) | 
+| [Ampere](https://arxiv.org/abs/2208.11174)                                            | [Ampere Chat](https://chatgpt.com/share/69025da0-50b4-8003-b1c8-36492c76e583) | 
+| [AMDsDTW](https://arxiv.org/abs/2403.06931)                                           | [AMDsDTW Chat](https://chatgpt.com/share/69026a94-c064-8003-be70-57f33be75ccd) | 
 
