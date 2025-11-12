@@ -22,7 +22,6 @@
 | [EffLLMServ](https://arxiv.org/abs/2503.18292)                                        | [EffLLMServ Chat](https://chatgpt.com/share/68ffb84a-b83c-8003-9a6f-b9cee67b01b8) | 
 | [Ampere](https://arxiv.org/abs/2208.11174)                                            | [Ampere Chat](https://chatgpt.com/share/69025da0-50b4-8003-b1c8-36492c76e583) | 
 | [AMDsDTW](https://arxiv.org/abs/2403.06931)                                           | [AMDsDTW Chat](https://chatgpt.com/share/69026a94-c064-8003-be70-57f33be75ccd) | 
-
 | [TPUs](https://arxiv.org/abs/2304.01433)                                              | [TPU Chat](https://chatgpt.com/share/6914e40e-c104-8003-8ff6-68745e40eeca) | 
 | [MTIA](https://dl.acm.org/doi/abs/10.1145/3579371.3589348)                            | [MTIA Chat](https://chatgpt.com/share/6914e45b-b71c-8003-910c-6dcb51355a61) | 
 
